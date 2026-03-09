@@ -1,0 +1,8 @@
+{
+    "name": "API",
+    "version": "1.0.2",
+    "description": "Module creates a API in the Flute",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\API\\Providers\\APIProvider"],
+    "dependencies": {}
+}
